@@ -1,0 +1,26 @@
+1 - Crie uma variável do Tipo Dicionário que conterá dados de uma pessoa, com no mínimo 6 informações e imprima o dicionário completo.
+
+2 - Crie uma variável do Tipo Dicionário que conterá dados de uma pessoa, com no mínimo 6 informações e imprima no console, uma informação por vez.
+
+3 - Crie uma variável do Tipo Lista de 05 marcas de celular e imprima no console a lista completa
+
+4 - Crie uma variável do Tipo Lista de 05 marcas de celular e imprima no console, uma por vez.
+
+5 - Crie uma variável do Tipo Dicionário que conterá 3 notas de um aluno, realize e imprima no console o cálculo da média do aluno.
+
+6 -Crie uma variável do Tipo Lista que conterá 3 notas de um aluno, realize e imprima no console o cálculo da média do aluno.
+
+
+1 - Criar 4 Keywords de cálculo utilizando argumentos embutidos. Cada keyword deve imprimir no console o resultado da operação. 
+Operações: soma, subtração, divisão e multiplicação.
+
+2 - Criar uma keyword que receba um nome e retorne o padrão nome@email.com.br
+
+
+
+1 - Crie uma keyword que imprima no console uma lista de números de 0 a 10 utilizando estrutura de repetição
+
+2 - Crie uma keyword que imprima no console uma lista de números em formato crescente, baseado em um argumento recebido com o número máximo de iterações.
+
+3 - Crie uma keyword que imprime no console uma lista recebida por argumento.
+
