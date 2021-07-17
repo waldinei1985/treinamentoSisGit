@@ -13,6 +13,9 @@ Imprimir lista
     Imprimir lista recebida  @{Marcas_Celulares}
     
 
+
+
+
 *** Keywords ***
 Imprimir números de 0 a 10
     FOR     ${NUM}  IN RANGE    0   11

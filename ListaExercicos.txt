@@ -24,3 +24,36 @@ Operações: soma, subtração, divisão e multiplicação.
 
 3 - Crie uma keyword que imprime no console uma lista recebida por argumento.
 
+Operadores Relacionais:
+
+> - Maior
+< - Menor
+>= - Maior ou Igual
+<= - Menor ou Igual
+
+Operadores de Igualdade:
+== - Igualdade
+!= - Diferença
+
+Operadores Aritméticos:
++ - Soma
+- - Subtração
+* - Multiplicação
+/ - Divisão
+
+
+1. Crie uma keyword que imprima no console as condições:
+- Caso a idade seja maior ou igual a 18 anos = Maior de idade
+
+2. Crie uma keyword que imprima “sucesso” no console quando encontrar o número 5 em uma lista.
+
+1. Crie uma keyword que imprima no console as condições:
+- Caso a idade seja maior ou igual a 18 anos = Maior de idade
+- Caso a idade seja menor que 18 anos = Menor de idade
+
+2. Crie uma keyword que receba uma lista de números e imprima no console se um número é par ou ímpar
+Dica: Para saber se o número é par ou impar, basta dividir por 2 e caso o resto seja inteiro é par
+
+Crie uma keyword que imprima no console a frase “Estou no número: ${numero}” de 0 a 10, 
+porém somente deve imprimir se for o número 5 ou 8.
+
