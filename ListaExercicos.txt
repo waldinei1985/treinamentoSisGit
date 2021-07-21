@@ -57,3 +57,9 @@ Dica: Para saber se o número é par ou impar, basta dividir por 2 e caso o rest
 Crie uma keyword que imprima no console a frase “Estou no número: ${numero}” de 0 a 10, 
 porém somente deve imprimir se for o número 5 ou 8.
 
+First Name = //input[@id="first_name"]
+Last Name = //input[@id="last_name"]
+Password = //input[@id="password"]
+Email = //input[@id="email"]
+Textarea1 = //input[@id="textarea1"]
+Botão Voltar = //a[@class="btn red"]
